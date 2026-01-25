@@ -1,4 +1,4 @@
-# mfsBSD installation (deployment) instructions
+# mfsBSD installation (deployment) instruction
 
 Copyright (c) 2019 Martin Matuska <mm at FreeBSD.org>
 
